@@ -11,7 +11,11 @@ Step 2: Project Point Cloud
 
 
 
+
 ![Screenshot 2024-07-15 014707](https://github.com/user-attachments/assets/8951ddf4-ace9-49df-96f1-821deecae933)
+
+
+
 
 
 
@@ -19,11 +23,18 @@ Step 3: Filter points in Bounding boxes
 
 
 
+
+
 ![Screenshot 2024-07-15 014718](https://github.com/user-attachments/assets/84e31a04-3d9d-4df0-9cd3-23b64d61c217)
 
 
 
+
+
+
 Step 4: Estimate the Distance
+
+
 
 
 
@@ -32,7 +43,12 @@ Step 4: Estimate the Distance
 
 
 
+
+
 Step 5: Weighted Average Sensor Fusion
+
+
+
 
 ![Screenshot 2024-07-15 014748](https://github.com/user-attachments/assets/df07ea7d-9acb-4b3e-b98e-ce08ad0465e8)
 
