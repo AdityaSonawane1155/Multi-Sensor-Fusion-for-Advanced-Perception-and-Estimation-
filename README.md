@@ -24,7 +24,7 @@ The objective is to create a system that accurately estimates the distance to ve
 
 
 
-## **Step 3: Filter points in Bounding boxes** ##
+# **Step 3: Filter points in Bounding boxes** #
 
 
 
@@ -38,7 +38,7 @@ The objective is to create a system that accurately estimates the distance to ve
 
 
 
-## **Step 4: Estimate the Distance** ##
+# **Step 4: Estimate the Distance** #
 
 
 
@@ -52,7 +52,7 @@ The objective is to create a system that accurately estimates the distance to ve
 
 
 
-## **Step 5: Weighted Average Sensor Fusion** ##
+# **Step 5: Weighted Average Sensor Fusion** #
 
 
 
