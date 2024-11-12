@@ -2,7 +2,7 @@
 The objective is to create a system that accurately estimates the distance to vehicles using a combination of image analysis and sensor data fusion. By employing YOLO for vehicle detection in images and integrating RADAR and LiDAR data, the system will project point cloud information onto images, filter relevant points, and estimate distances to detected vehicles. The fusion of RADAR and LiDAR data aims to capitalize on the strengths of each sensor type. The accuracy of distance estimates will be evaluated using metrics like mean absolute error and root mean square error, ensuring the system’s reliability and effectiveness across diverse scenarios
 
 
-##**Step 1: Object Detection with YOLOv8**##
+## **Step 1: Object Detection with YOLOv8** ##
 
 ![Screenshot 2024-07-15 014657](https://github.com/user-attachments/assets/b270d9a8-f3f1-4377-8e71-12a65df098e0)
 
