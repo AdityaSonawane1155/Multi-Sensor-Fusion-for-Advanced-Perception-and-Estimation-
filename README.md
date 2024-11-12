@@ -9,7 +9,7 @@ The objective is to create a system that accurately estimates the distance to ve
 
 
 
-Step 2: Project Point Cloud
+## **Step 2: Project Point Cloud** ##
 
 ![image](https://github.com/user-attachments/assets/f1911f40-db16-4ceb-a6bc-85941594129e)
 
@@ -24,7 +24,7 @@ Step 2: Project Point Cloud
 
 
 
-Step 3: Filter points in Bounding boxes
+## **Step 3: Filter points in Bounding boxes** ##
 
 
 
@@ -38,7 +38,7 @@ Step 3: Filter points in Bounding boxes
 
 
 
-Step 4: Estimate the Distance
+## **Step 4: Estimate the Distance** ##
 
 
 
@@ -52,7 +52,7 @@ Step 4: Estimate the Distance
 
 
 
-Step 5: Weighted Average Sensor Fusion
+## **Step 5: Weighted Average Sensor Fusion** ##
 
 
 
