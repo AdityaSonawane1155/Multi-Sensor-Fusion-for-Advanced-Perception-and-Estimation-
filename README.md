@@ -9,6 +9,7 @@ Step 1: Object Detection with YOLOv8
 
 Step 2: Project Point Cloud
 
+![image](https://github.com/user-attachments/assets/f1911f40-db16-4ceb-a6bc-85941594129e)
 
 
 
