@@ -59,3 +59,14 @@ The objective is to create a system that accurately estimates the distance to ve
 
 ![Screenshot 2024-07-15 014748](https://github.com/user-attachments/assets/df07ea7d-9acb-4b3e-b98e-ce08ad0465e8)
 
+
+
+# **Step 6: Accuracy Evaluation** #
+
+ This final step assesses the accuracy of the distance estimates using two common metrics:
+ Mean Absolute Error (MAE) and Root Mean Square Error (RMSE). Lower values in
+ both cases indicate better accuracy. The evaluation resulted in a Mean Absolute Error (MAE) of 5.49 meters and a Root Mean
+ Square Error (RMSE) of 6.67 meters. These values suggest that, on average, the distance
+ estimates were generally within 5.49 meters of the actual distances. The slightly higher
+ RMSE indicates there might have been a few instances with larger errors. Overall, these
+ metrics suggest good accuracy in the final distance estimates.
